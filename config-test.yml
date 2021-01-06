@@ -2,4 +2,4 @@ spring:
   profiles:
     active: test
 config:
-  info: main branch,cloud_config/config-dev.yml version = 1
+  info: main branch,cloud_config/config-test.yml version = 1
