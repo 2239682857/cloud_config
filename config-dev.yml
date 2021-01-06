@@ -1,3 +1,5 @@
 spring:
   profiles:
     active: dev
+config:
+  info: main branch,cloud_config/config-dev.yml version = 1
