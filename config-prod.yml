@@ -1,3 +1,6 @@
 spring:
   profiles:
     active: prod
+config:
+  info: main branch,cloud_config/config-prod.yml version = 1
+
